@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Apple Oatmeal Bake",
+    "ingredients": [
+      {
+        "item": [
+          {
+            "ingredient": "2 cup Oats"
+          },
+          {
+            "ingredient": "1 teaspoon Baking Powder"
+          },
+          {
+            "ingredient": "2.5 teaspoon Ground Cinnamon"
+          },
+          {
+            "ingredient": ".25 teaspoon Ground Nutmeg"
+          },
+          {
+            "ingredient": ".50 teaspoon Sea Salt"
+          },
+          {
+            "ingredient": "20 Granny Smith Medium Apples"
+          },
+          {
+            "ingredient": "1.75 cup Almond Milk"
+          },
+          {
+            "ingredient": "3 Eggs"
+          },
+          {
+            "ingredient": ".5 cup Brown Sugar"
+          },
+          {
+            "ingredient": "1 teaspoon Vanilla"
+          },
+          {
+            "ingredient": "2 scoop Healthy Meal Protein*"
+          }
+        ],
+        "title": "Oatmeal Bake"
+      },
+      {
+        "item": [
+          {
+            "ingredient": ".50 cup Almond Milk"
+          },
+          {
+            "ingredient": ".25 cup Brown Sugar"
+          },
+          {
+            "ingredient": ".25 teaspoon Salt"
+          },
+          {
+            "ingredient": ".25 teaspoon Vanilla"
+          }
+        ],
+        "title": "Brown Sugar Sauce"
+      }
+    ]
+  },
+  {
+    "name": "Chimichurri Shrimp Green Bowl",
+    "ingredients": [
+      {
+        "item": [
+          {
+            "ingredient": "1 cup Cilantro"
+          },
+          {
+            "ingredient": ".25 cup Parsley"
+          },
+          {
+            "ingredient": "2 Garlic Cloves"
+          },
+          {
+            "ingredient": ".5 cup Red Wine Vinegar"
+          },
+          {
+            "ingredient": "1 Avocado"
+          },
+          {
+            "ingredient": "1 Small Jalapeno"
+          },
+          {
+            "ingredient": ".5 cup Water, as needed"
+          }
+        ],
+        "title": "Chimichurri"
+      },
+      {
+        "item": [
+          {
+            "ingredient": "1 Bunch of Broccoli, ends trimmed"
+          },
+          {
+            "ingredient": "1.5 cup Shrimp, cooked"
+          },
+          {
+            "ingredient": "2 cup Quinoa, cooked"
+          },
+          {
+            "ingredient": "4 cup Baby Spinach"
+          },
+          {
+            "ingredient": "2 cup Iceberg Lettuce, shredded"
+          },
+          {
+            "ingredient": "1 cup Edamame, shelled"
+          },
+          {
+            "ingredient": "1 Avocado, sliced"
+          },
+          {
+            "ingredient": "1 Jalapeno, sliced"
+          },
+          {
+            "ingredient": ".5 Onion, diced"
+          },
+          {
+            "ingredient": "to taste Salt"
+          },
+          {
+            "ingredient": "to taste Ground Black Pepper"
+          },
+          {
+            "ingredient": "Cooking Spray"
+          }
+        ],
+        "title": "Bowl"
+      }
+    ]
+  }
+]
